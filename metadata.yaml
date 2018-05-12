@@ -1,0 +1,26 @@
+_repo: William-Shakespeare-as-he-lived.An-Historical-Tale_34796
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Curling, Henry
+    birthdate: 1803
+    deathdate: 1864
+    gutenberg_agent_id: '37237'
+    url: http://www.gutenberg.org/2009/agents/37237
+description: ''
+gutenberg_issued: '2010-12-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34796'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Shakespeare, William, 1564-1616 -- Fiction'
+- !lcc 'PR'
+title: 'William Shakespeare as He Lived: An Historical Tale'
+url: http://www.gutenberg.org/ebooks/34796
